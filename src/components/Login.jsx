@@ -9,7 +9,7 @@ const login = () => {
 
   const handleSubmit = (event)=>{
     event.preventDefault();
-    alert("Enviando os dados" + username+ ' - '+Password );
+    //alert("Enviando os dados " + username+ ' - '+Password );
   }
 
   return (
